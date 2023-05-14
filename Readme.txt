@@ -1,3 +1,6 @@
+How to open 
+Extract it using winrar
+
 How to run the Dairy Farm Shop Management System Project (DFSMS)
 
 1. Download the zip file
